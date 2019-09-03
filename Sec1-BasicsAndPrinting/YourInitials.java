@@ -7,6 +7,17 @@
 public class YourInitials {
 
     public static void main(String[] args) {
+           Sysem.out.println("JJJJJJ");
+            System.out.println("J");
+            System.out.println("J"); 
+            System.out.println("J");  
+            System.out.println("J");   
+            System.out.println("J");  
+            System.out.println("J");  
+            System.out.println("J"); 
+            System.out.println("J");  
+        System.out.println("JJJJJJ");
+        
         System.out.println(" SSS   L      W   W");
         System.out.println("S   S  L      W   W");
         System.out.println("S      L      W   W");
